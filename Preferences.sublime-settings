@@ -8,5 +8,6 @@
 	"font_face": "Monaco",
 	// don't ever leave projects open
 	"hot_exit": false,
-	"remember_open_files": false
+	"remember_open_files": false,
+	"word_wrap": true,
 }
