@@ -4,3 +4,6 @@
 [submodule "Theme - Cobalt2"]
 	path = Theme - Cobalt2
 	url = git@github.com:wesbos/cobalt2.git
+[submodule "Git"]
+	path = Git
+	url = git@github.com:kemayo/sublime-text-2-git.git
