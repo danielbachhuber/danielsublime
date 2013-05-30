@@ -1,13 +1,12 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-	"theme": "Cobalt2.sublime-theme",
-	"ignored_packages": [],
-	"font_size": 18,
 	"font_face": "Monaco",
-	// don't ever leave projects open
+	"font_size": 18,
 	"hot_exit": false,
+	"ignored_packages":
+	[
+	],
 	"remember_open_files": false,
-	"word_wrap": true,
+	"theme": "Cobalt2.sublime-theme",
+	"word_wrap": true
 }
