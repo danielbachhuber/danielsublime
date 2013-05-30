@@ -10,3 +10,6 @@
 [submodule "Vintageous"]
 	path = Vintageous
 	url = git@github.com:guillermooo/Vintageous.git
+[submodule "SublimeLinter"]
+	path = SublimeLinter
+	url = git@github.com:SublimeLinter/SublimeLinter.git
