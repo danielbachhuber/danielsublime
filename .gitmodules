@@ -7,3 +7,6 @@
 [submodule "Git"]
 	path = Git
 	url = git@github.com:kemayo/sublime-text-2-git.git
+[submodule "Vintageous"]
+	path = Vintageous
+	url = git@github.com:guillermooo/Vintageous.git
