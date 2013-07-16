@@ -9,5 +9,6 @@
 	],
 	"remember_open_files": false,
 	"theme": "Cobalt2.sublime-theme",
-	"word_wrap": true
+	"word_wrap": true,
+	"file_exclude_patterns":  [ "*.min.js", "*.min.css" ]
 }
