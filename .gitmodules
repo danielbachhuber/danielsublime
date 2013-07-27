@@ -13,3 +13,6 @@
 [submodule "SublimeLinter"]
 	path = SublimeLinter
 	url = git@github.com:SublimeLinter/SublimeLinter.git
+[submodule "rsub"]
+	path = rsub
+	url = git@github.com:henrikpersson/rsub.git
