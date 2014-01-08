@@ -1,7 +1,12 @@
 {
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.min.js",
+		"*.min.css"
+	],
 	"font_face": "Source Code Pro",
-	"font_size": 18,
+	"font_size": 20,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -9,6 +14,5 @@
 	],
 	"remember_open_files": false,
 	"theme": "Cobalt2.sublime-theme",
-	"word_wrap": true,
-	"file_exclude_patterns":  [ "*.min.js", "*.min.css" ]
+	"word_wrap": true
 }
