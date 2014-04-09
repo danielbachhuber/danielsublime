@@ -15,5 +15,5 @@
 	"remember_open_files": false,
 	"theme": "Cobalt2.sublime-theme",
 	"word_wrap": true,
-	"atomic_save": false
+	"trailing_spaces_trim_on_save": true
 }

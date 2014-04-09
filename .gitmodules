@@ -16,3 +16,6 @@
 [submodule "rsub"]
 	path = rsub
 	url = git@github.com:henrikpersson/rsub.git
+[submodule "TrailingSpaces"]
+	path = TrailingSpaces
+	url = git://github.com/SublimeText/TrailingSpaces.git
